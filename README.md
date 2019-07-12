@@ -24,6 +24,9 @@ How to run:
 Simply load the project in an IDE (eclipse preferably) and run 'MainFile.java'.
 
 Then go to http://localhost:8080/index.
+
 Hit the 'Login' button and authenticate with google
+
 Hit the 'Scrape Emails' button and check the IDE console to see scrape progress
+
 Hit the 'View Emails' button to view emails associated with your google authenticated account. (Only you can access your emails)
