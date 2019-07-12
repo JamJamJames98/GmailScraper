@@ -1,5 +1,3 @@
-# GmailScraper
-
 README:
 
 Database Setup:
